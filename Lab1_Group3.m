@@ -79,6 +79,7 @@ randVec_5_sample=randsample(random_vec,5)   % 5 random samples from vector
      fprintf("\nIntermediate mean #%d is: %0.1f \n", j, mean_In);
   end
   mean_5_samples= mean_In/5;
+
   
 % comparing mean of 5 samples to Overall mean
 
