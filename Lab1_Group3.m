@@ -36,6 +36,7 @@ title('3 -D Plot ');
 xlabel('X Axis'), ylabel('Y Axis'),zlabel('Z Axis');
 
 
+
 % Q:-13 Write a script to plot a vector of random data. Draw a horizontal line 
 % at the mean. Save the script and run it from the command line.
 
